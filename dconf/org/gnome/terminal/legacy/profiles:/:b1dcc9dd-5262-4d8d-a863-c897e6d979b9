@@ -1,0 +1,9 @@
+[org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+background-color='rgb(0,0,0)'
+bold-is-bright=false
+default-size-columns=152
+default-size-rows=40
+foreground-color='rgb(255,255,255)'
+scrollback-unlimited=true
+use-system-font=true
+use-theme-colors=false

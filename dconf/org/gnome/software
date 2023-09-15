@@ -1,0 +1,4 @@
+[org/gnome/software]
+download-updates=false
+download-updates-notify=false
+show-nonfree-prompt=false

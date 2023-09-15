@@ -1,0 +1,7 @@
+[org/gnome/eog/view]
+background-color='rgb(0,0,0)'
+extrapolate=false
+interpolate=true
+trans-color='rgb(255,255,255)'
+transparency='checked'
+use-background-color=true

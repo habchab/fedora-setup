@@ -1,0 +1,16 @@
+[org/gnome/desktop/interface]
+clock-show-weekday=true
+color-scheme='prefer-dark'
+document-font-name='Cantarell 9'
+enable-animations=true
+enable-hot-corners=true
+font-antialiasing='grayscale'
+font-hinting='slight'
+font-name='Cantarell 9'
+gtk-enable-primary-paste=false
+gtk-theme='Adwaita-dark'
+locate-pointer=false
+monospace-font-name='Source Code Pro 9'
+show-battery-percentage=true
+text-scaling-factor=1.0
+toolkit-accessibility=false

@@ -1,0 +1,9 @@
+[org/gnome/evince/default]
+continuous=true
+dual-page=false
+dual-page-odd-left=false
+fullscreen=false
+inverted-colors=true
+show-sidebar=false
+sidebar-page='links'
+sizing-mode='free'

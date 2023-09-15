@@ -1,0 +1,5 @@
+[org/gnome/shell/extensions/shell-volume-mixer]
+always-show-input-streams=false
+pinned-profiles=@as []
+position='aggregateMenu'
+use-symbolic-icons=true

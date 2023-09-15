@@ -1,0 +1,4 @@
+[org/gnome/mutter]
+check-alive-timeout=uint32 30000
+dynamic-workspaces=false
+workspaces-only-on-primary=false

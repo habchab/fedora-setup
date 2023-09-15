@@ -1,0 +1,5 @@
+[org/gnome/terminal/legacy/keybindings]
+copy='<Primary>Insert'
+paste='<Shift>Insert'
+select-all='<Primary><Shift>a'
+zoom-in='<Primary>equal'

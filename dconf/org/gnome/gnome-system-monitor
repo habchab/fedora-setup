@@ -1,0 +1,14 @@
+[org/gnome/gnome-system-monitor]
+cpu-smooth-graph=false
+cpu-stacked-area-chart=true
+disks-interval=5000
+graph-data-points=30
+graph-update-interval=1000
+logarithmic-scale=false
+network-in-bits=true
+network-total-in-bits=true
+network-total-unit=false
+process-memory-in-iec=false
+resources-memory-in-iec=false
+smooth-refresh=true
+update-interval=3000

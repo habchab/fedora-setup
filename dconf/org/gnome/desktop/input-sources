@@ -1,0 +1,5 @@
+[org/gnome/desktop/input-sources]
+current=uint32 0
+per-window=false
+sources=[('xkb', 'us')]
+xkb-options=['ctrl:swapcaps', 'lv3:ralt_switch', 'lv3:ralt_alt']

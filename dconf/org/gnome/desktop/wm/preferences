@@ -1,0 +1,6 @@
+[org/gnome/desktop/wm/preferences]
+auto-raise=false
+button-layout=':minimize,maximize,close'
+focus-mode='click'
+focus-new-windows='strict'
+titlebar-font='Cantarell Bold 10'
