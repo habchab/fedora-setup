@@ -2,5 +2,5 @@
 auto-raise=false
 button-layout=':minimize,maximize,close'
 focus-mode='click'
-focus-new-windows='strict'
+focus-new-windows='smart'
 titlebar-font='Cantarell Bold 10'
